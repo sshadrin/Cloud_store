@@ -1,1 +1,1 @@
-# Cloud-store
+Basic cloud store on laravel frameworck.
